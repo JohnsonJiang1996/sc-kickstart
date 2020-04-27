@@ -28,11 +28,11 @@ interests:
 education:
   courses:
   - course: MS in Electrical and Computer Engineering
-    institution: georgia Institute of Technology
-    year: 2019.8 -- Present
+    institution: Georgia Institute of Technology
+    year: 2019  -  Present
   - course: BSc in Engineering
     institution: Northeastern University
-    year: 2015.9 - 2019.6
+    year: 2015  -  2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
